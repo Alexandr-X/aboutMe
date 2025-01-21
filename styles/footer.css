@@ -1,0 +1,27 @@
+footer{
+    height: 200px;
+    background-color: gray;
+    width: 100%;
+    margin-top: 50%;
+}
+.myLinksCont{
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.myLinksCont img{
+    height: 20px;
+    width: 20px;
+}
+.myLinksCont div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 140px;
+}
+.myLinks{
+ color: wheat;
+ height: 20px;
+ font-size: 20px;
+}
